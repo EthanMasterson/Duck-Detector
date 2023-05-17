@@ -1,0 +1,5 @@
+train: C:/Users/peath/Documents/Uni/Year 3/Individual Project/Dataset/50pc/Train
+val: C:/Users/peath/Documents/Uni/Year 3/Individual Project/Dataset/50pc/Val
+
+nc: 3
+names: ["Mallard","Pigeon","Runner Duck"]
